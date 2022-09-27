@@ -175,7 +175,7 @@ section {
 }
 
 .section-headers {
-  max-width: 533px;
+  max-width: 500px;
   text-align: center;
   margin: 0 auto;
 }
@@ -874,7 +874,7 @@ form input, form button {
   }
 
   h2 {
-    font-size: 1.4rem;
+    font-size: 1.28rem;
   }
 
   h3 {
