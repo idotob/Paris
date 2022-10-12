@@ -865,11 +865,11 @@ form input, form button {
 /*--------------- SMALLER MOBILE --------------*/
 @media screen and (max-width: 400px) {
   h1 {
-    font-size: 1.6rem;
+    font-size: 1.5rem;
   }
 
   h2 {
-    font-size: 1.35rem;
+    font-size: 1.2rem;
   }
 
   h3 {
